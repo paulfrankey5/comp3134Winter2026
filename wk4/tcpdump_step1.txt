@@ -1,0 +1,10 @@
+19:51:27.409269 IP lnsm5-toronto11-142-116-133-132.internet.virginmobile.ca.55701 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 970724945, win 251, length 0
+19:51:27.411475 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > lnsm5-toronto11-142-116-133-132.internet.virginmobile.ca.55701: Flags [P.], seq 1:109, ack 0, win 501, length 108
+19:51:27.411619 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > lnsm5-toronto11-142-116-133-132.internet.virginmobile.ca.55701: Flags [P.], seq 109:265, ack 0, win 501, length 156
+19:51:27.411702 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > lnsm5-toronto11-142-116-133-132.internet.virginmobile.ca.55701: Flags [P.], seq 265:333, ack 0, win 501, length 68
+19:51:27.411761 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > lnsm5-toronto11-142-116-133-132.internet.virginmobile.ca.55701: Flags [P.], seq 333:369, ack 0, win 501, length 36
+19:51:27.417266 IP lnsm5-toronto11-142-116-133-132.internet.virginmobile.ca.55701 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 265, win 250, length 0
+19:51:27.418183 IP lnsm5-toronto11-142-116-133-132.internet.virginmobile.ca.55701 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 369, win 255, length 0
+19:51:28.421250 IP ubuntu-s-1vcpu-1gb-tor1-01.56496 > 67.207.67.3.domain: 986+ [1au] PTR? 209.234.22.165.in-addr.arpa. (56)
+19:51:28.444230 IP 67.207.67.3.domain > ubuntu-s-1vcpu-1gb-tor1-01.56496: 986 NXDomain 0/1/1 (123)
+19:51:28.444414 IP ubuntu-s-1vcpu-1gb-tor1-01.56496 > 67.207.67.3.domain: 986+ PTR? 209.234.22.165.in-addr.arpa. (45)
