@@ -1,0 +1,6 @@
+This lab(week5) demonstrates TCP and UDP packet transmission using Packet Sender.
+Wireshark was used to capture and analyze TCP and UDP traffic.
+TCP packets were analyzed using filters such as tcp.port == 80 and tcp.flags.reset == 1.
+UDP packets were analyzed using the udp filter.
+A DigitalOcean Ubuntu droplet was used as the server.
+UFW firewall was configured to allow OpenSSH and then enabled.
