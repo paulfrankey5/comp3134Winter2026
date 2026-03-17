@@ -1,0 +1,19 @@
+Traceroute Result
+
+Command Used:
+tracert lululemon.com
+
+Output:
+1    192.168.2.1
+2    64.230.11.154
+3    64.230.101.120
+4    142.124.127.157
+5    * * *
+6    142.124.126.9
+7    akamai_bx08-toroonxnzb9.net.bell.ca [184.150.180.65]
+
+Notes:
+Some hops did not respond to ICMP requests, which is normal in traceroute results.
+
+Conclusion:
+The route from the local machine to the company’s network was successfully determined.

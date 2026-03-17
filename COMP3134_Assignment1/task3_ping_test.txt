@@ -1,0 +1,12 @@
+Ping Test Result
+
+Command Used:
+ping lululemon.com
+
+Output:
+Reply from 23.222.17.78: bytes=32 time=8ms TTL=54
+Reply from 23.222.17.78: bytes=32 time=5ms TTL=54
+Reply from 23.222.17.78: bytes=32 time=6ms TTL=54
+
+Conclusion:
+The server is reachable and can communicate with another computer or network.

@@ -1,0 +1,31 @@
+Domain Registration and Hosting Information
+
+Domain Name:
+lululemon.com
+
+Registered On:
+1999-03-25
+
+Updated On:
+2024-02-22
+
+Expiration Date:
+2026-03-25
+
+Registrar:
+MarkMonitor Inc.
+
+Registrant Organization:
+Lululemon Athletica Canada Inc.
+
+Registrant Country:
+Canada (CA)
+
+Name Servers:
+a1-27.akam.net
+a16-64.akam.net
+a26-65.akam.net
+a6-66.akam.net
+a7-67.akam.net
+a9-64.akam.net
+
